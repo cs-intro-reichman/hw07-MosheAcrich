@@ -10,7 +10,7 @@ public class Palindrome {
 		if(s.length() <= 1){
 			return true;
 		}
-		if (s.charAt(0) != s.charAt(s.length()-1))´{
+		if (s.charAt(0) != s.charAt(s.length()-1)){
 			return false;
 		} 
 		//// Replace the followaing statement with your code
